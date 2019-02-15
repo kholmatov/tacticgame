@@ -28,24 +28,14 @@ return [
 			    ],
 		    ],
 	    ],
-//        'mailer' => [
-//            'class' => 'yii\swiftmailer\Mailer',
-////            'transport' => [
-////                'class' => 'Swift_SmtpTransport',
-////                'host' => 'smtp.yandex.ru',
-////                'username' => 'info@tacticgame.es',
-////                'password' => 'Alan870629',
-////                'port' => '465',
-////                'encryption' => 'SSL',
-////             ],
-//          ],
+
         'mail' => [
             'class' => 'yii\swiftmailer\Mailer',
             'transport' => [
                 'class' => 'Swift_SmtpTransport',
                 'host' => 'smtp.yandex.ru',//'smtp.yandex.ru',  // e.g. smtp.mandrillapp.com or smtp.gmail.com
                 'username' => 'info@tacticgame.es',
-                'password' => 'Alan870629',
+                'password' => '',
                 'port' => '465',
                 'encryption' => 'ssl',
                 'plugins' => [
