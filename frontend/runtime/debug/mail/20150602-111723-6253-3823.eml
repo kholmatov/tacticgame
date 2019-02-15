@@ -1,0 +1,23 @@
+Message-ID: <2f80f5431809cc2e21db784ab00dc531@tacticgame.es>
+Date: Tue, 02 Jun 2015 11:17:23 +0000
+Subject: Message subject
+From: taticgame@yandex.ru
+To: tacticgame@yandex.ru
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1433243843_2310ce6a3b16724e91a33e0ed92ac852_=_"
+
+
+--_=_swift_v4_1433243843_2310ce6a3b16724e91a33e0ed92ac852_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Plain text content
+
+--_=_swift_v4_1433243843_2310ce6a3b16724e91a33e0ed92ac852_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<b>HTML content</b>
+
+--_=_swift_v4_1433243843_2310ce6a3b16724e91a33e0ed92ac852_=_--

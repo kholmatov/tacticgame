@@ -1,0 +1,54 @@
+Message-ID: <7921960ef8858ba567f4272e907c13ec@tacticgame.es>
+Date: Mon, 04 May 2015 00:26:54 +0000
+Subject: Password reset for My Application
+From: My Application robot <support@example.com>
+To: ekholmatov@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1430699214_52ac95b5d5f7142b926c6d2f871f57c6_=_"
+
+
+--_=_swift_v4_1430699214_52ac95b5d5f7142b926c6d2f871f57c6_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello admin,
+
+Follow the link below to reset your password:
+
+http:/=
+/www.tacticgame.es/site/reset-password?token=3DqjJNJsL5PLIIBZCwJgJBUyPZeXPQ=
+8-dI_1430699214
+
+--_=_swift_v4_1430699214_52ac95b5d5f7142b926c6d2f871f57c6_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"password-reset">
+    <p>Hello admin,</p>
+
+    <p>Fo=
+llow the link below to reset your password:</p>
+
+    <p><a href=3D"http=
+://www.tacticgame.es/site/reset-password?token=3DqjJNJsL5PLIIBZCwJgJBUyPZeX=
+PQ8-dI_1430699214">http://www.tacticgame.es/site/reset-password?token=3DqjJ=
+NJsL5PLIIBZCwJgJBUyPZeXPQ8-dI_1430699214</a></p>
+</div>
+    </body>
+<=
+/html>
+
+
+--_=_swift_v4_1430699214_52ac95b5d5f7142b926c6d2f871f57c6_=_--

@@ -1,0 +1,100 @@
+/**
+* @copyright Copyright &copy; Gogodigital Srls
+* @company Gogodigital Srls - Wide ICT Solutions 
+* @website http://www.gogodigital.it
+* @github https://github.com/cinghie/yii2-articles
+* @license GNU GENERAL PUBLIC LICENSE VERSION 3
+* @package yii2-articles
+* @version 1.0
+*/
+
+body {
+	font-family: "Open Sans";
+}
+hr {
+    border-color: #eaedf2;
+    border-top-width: 2px;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #434955;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+h1 {
+	margin: 40px 0 20px;
+    padding: 5px 0 15px;
+}
+
+/* Select2 */
+
+span.select2.select2-container.select2-container--krajee {
+	width: 100%;
+}
+
+/* Categories View */
+
+div.categories .categories-grid {
+	padding: 0 10px;
+}
+
+/* Category Form*/
+
+div.separator {
+	margin-top: 25px;
+}
+p.bg-info {
+	padding: 15px;
+}
+div#params h4 {
+	background-color: #5CB85C;
+	color: #FFFFFF!important;
+	padding: 10px;
+	text-align: center;
+}
+
+/* Category View */
+
+div.category-actions {
+	margin-bottom: 20px;
+}
+div.category-view {
+	background: none repeat scroll 0 0 #F8F8F8;
+    border: 1px solid #E5E5E5;
+	margin-bottom: 20px;
+	padding: 12px;
+}
+div.category-view img {
+	padding: 4px;
+}
+div.category-view .caption {
+	background-color: rgba(0, 0, 0, 0.75);
+	color: #EFEFEF;
+	font-size: 90%;
+	font-style:italic;
+	margin: -20px 0 0 0;
+	text-align: center;
+	opacity:0.75; /* transparency */  
+    filter:alpha(opacity=60); /* IE transparency */
+}
+div.category-view .credits {
+  	display: inline-block;
+  	color: #999;
+	font-size: 75%;
+}
+div.category-view .credits small:before {
+  content: '\2014 \00A0';
+}
+div.category-view .description {
+    padding: 0 2px 0 0;
+}
+div.category-items .category-item {
+	border-bottom: 1px solid #EEEEEE;
+	padding: 10px;
+}
+
+/* Item View */
+
+.item-view figcaption {
+	margin-bottom: 25px;
+	text-align: center;
+}

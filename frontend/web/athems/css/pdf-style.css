@@ -1,0 +1,44 @@
+@import url("http://tacticgame.es/athems/css/style.css");
+html {
+    font-family: 'PT Mono';
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+body {
+    margin: 0;
+}
+.order-container{
+   width: 100%;
+   height: 100%;
+   /*border: 2px  #000000;*/
+}
+.order-container div{
+    margin: 2px;
+}
+.ticket__inner{
+    border: 2px solid #dbdee1;
+    overflow: hidden;
+    float: left;
+    height: 100px;
+    width: 820px;
+
+}
+.ticket-secondary{
+    float: left;
+    height:100px;
+    width: 200px;
+    padding: 10px;
+    border-right:2px dashed #dbdee1;
+}
+.ticket-secondary .ticket__item{
+    float: left;
+    width: 200px;
+}
+.ticket-primery{
+    float: left;
+    padding: 10px;
+    border-left:none;
+}
+.ticket__place{
+    color: #ff0084;
+}
